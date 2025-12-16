@@ -1,4 +1,4 @@
-**🎨🎵 Paletto**
+**🎨🎵 Palletto**
 
 Challenge 3 iOS Application
 
