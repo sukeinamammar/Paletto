@@ -2,7 +2,7 @@
 
 Challenge 3 iOS Application
 
-Paletto is a creative iOS application designed to let users play music with color. By interacting with a grid of colors, users can trigger sounds and explore music in a visual and intuitive way. The app focuses on creativity, accessibility, and inspiration through sensory interaction.
+Palletto is a creative iOS application designed to let users play music with color. By interacting with a grid of colors, users can trigger sounds and explore music in a visual and intuitive way. The app focuses on creativity, accessibility, and inspiration through sensory interaction.
 
 **Client**
 
@@ -51,4 +51,4 @@ This application was created as a client-based project for Challenge 3, designed
 
 **Goal**:
 
-Paletto aims to inspire creativity by blending music and color into an intuitive, interactive experience.
+Palletto aims to inspire creativity by blending music and color into an intuitive, interactive experience.
